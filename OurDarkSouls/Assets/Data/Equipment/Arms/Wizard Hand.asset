@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61e1a1254bd78934f8b452f8d95930e3, type: 3}
+  m_Name: Wizard Hand
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 21300000, guid: 26aa503acd432e14fbccd00ac1979dd7, type: 3}
+  itemName: Wizard Hand
+  physicalDefense: 5
+  leftHandModelName: Wizard_HandLeft
+  rightHandModelName: Wizard_HandRight
+  lowerLeftArmModelName: Wizard_ArmLowerLeft
+  lowerRightArmModelName: Wizard_ArmLowerRight

@@ -1,0 +1,9 @@
+Ultimate pooling has built in support for networking using Unity's 'uNet' system as well as pooling using our separate 'Ultimate Pooling' asset which can be found here (https://www.assetstore.unity3d.com/en/#!/content/64950).
+Support for both of these is disabled by default as not everyone will have these instaled.
+
+Support for these systems can be easily activated via the use of scripting define symbols. 
+Go to 'Edit -> Project Settings -> Player' and select the 'Other Settings' area. Note that you should make sure your target platform is selected.
+You can enter scripting define symbols in the field labeled as such. Note that more than one entry can be added to the input field by separating entries with a semicolon ';'
+
+To enable networking add: ULTIMATE_SPAWNER_NETWORKED
+To enable pooling add: ULTIMATE_SPAWNER_POOLED

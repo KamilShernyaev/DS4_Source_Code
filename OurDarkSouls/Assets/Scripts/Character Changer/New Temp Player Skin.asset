@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5738929bfdaf9a4b9831a2b3ed424ee, type: 3}
+  m_Name: New Temp Player Skin
+  m_EditorClassIdentifier: 
+  tempPrimaryWeapon: {fileID: 11400000, guid: ae65e082c7b362c4e92ee6e39fee3975, type: 2}
+  tempOffHandWeapon: {fileID: 11400000, guid: 15ec4a1678263fd47b77550103fec42e, type: 2}
+  tempHelmetEquipment: {fileID: 11400000, guid: f49d1d56caf78d341bd401e95063e8f4, type: 2}
+  tempBodyEquipment: {fileID: 11400000, guid: ed0c40361c92c704b871f641c03df63f, type: 2}
+  tempLegEquipment: {fileID: 11400000, guid: 0c3c8ba0a9e8f26429460f17efd1329b, type: 2}
+  tempHandEquipment: {fileID: 11400000, guid: f6ef5778849028a4586b41ea3acaba6f, type: 2}
+  healthLevel: 25
+  staminaLevel: 35
+  focusLevel: 45

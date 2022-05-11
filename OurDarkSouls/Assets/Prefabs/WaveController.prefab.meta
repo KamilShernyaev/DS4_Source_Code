@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bd4b24714e325874689b3fb6b676abb6
+labels:
+- Spawn
+- Spawning
+- Spawner
+- UltimateSpawner
+- Wave
+- Waves
+- EnemyWaves
+- Network
+- uNet
+timeCreated: 1456850513
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

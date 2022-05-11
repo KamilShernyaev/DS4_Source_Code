@@ -1,0 +1,10 @@
+Unity version (5.1.0f3)
+The following error may appear in the editor console when a client player shoots an enemy in the networked scene example:
+
+InvokeCommand class [FPSController] doesn't match [Shoot])
+-NetworkIdentity::UNetStaticUpdate()
+
+This is a known Unity bug and the error message is harmless.
+The bug is fixed in later versions.
+
+http://forum.unity3d.com/threads/invokecommand-class-x-doesnt-match-y-unityengine-networking-network-696680-fixed-or-not.332384/#post-2152957

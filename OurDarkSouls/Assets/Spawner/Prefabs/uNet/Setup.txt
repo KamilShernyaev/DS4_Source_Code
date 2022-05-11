@@ -1,0 +1,12 @@
+By default all networking is disabled and all scripts are used in single player mode. Note that the networked prefabs provided will not function correctly when in this default mode.
+To activate networking you will need to add a scripting define symbol to the player settings.
+Follow the steps below to add a define symbol and enable networking.
+
+1/ Go to 'Edit/ProjectSettings/Player'
+2/ Find the section labeled 'OtherSettings' for your target platform
+3/ Find the field called 'Scripting Define Symbols'
+4/ add the following define symbol to enable networking: 'ULTIMATE_SPAWNER_NETWORKED'
+5/ Check the build settings and make sure that your current platform matches the platform that you added the scripting define symbol for.
+6/ Allow Unity to recompile the scripts and you will now have networking enabled.
+
+Once these steps are completed you can use the prefabs located in the 'UltimateSpawner/Prefabs/uNet' folder.
