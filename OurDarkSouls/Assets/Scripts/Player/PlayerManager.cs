@@ -61,7 +61,10 @@ namespace SG
             playerLocomotionManager.HandleJumping();
             playerStatsManager.RegenerateStamina();
 
-            CheckForInteractableObject();
+            if(cameraHandler != null)
+            {
+                CheckForInteractableObject();
+            }
         }
 
          private void FixedUpdate() 

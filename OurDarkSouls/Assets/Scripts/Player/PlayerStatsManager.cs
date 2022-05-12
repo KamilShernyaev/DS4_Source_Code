@@ -35,7 +35,6 @@ namespace SG
         void Start()
         {   
             playerCapsuleCollider.enabled = true;
-            loseWindow.SetActive(false);
 
             maxHelth = SetMaxHealthFromHealthLevel();
             currentHealth = maxHelth;

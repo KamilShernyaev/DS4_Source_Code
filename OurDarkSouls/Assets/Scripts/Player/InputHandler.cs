@@ -275,7 +275,10 @@ namespace SG
               }
             }
 
-            cameraManager.SetCameraHeigh();
+            if(cameraManager != null)
+            {
+              cameraManager.SetCameraHeigh();
+            }
           }
 
           private void HandleTwoHandInput()

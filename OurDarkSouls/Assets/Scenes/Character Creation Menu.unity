@@ -1212,6 +1212,11 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 242793963}
   m_CullTransparentMesh: 1
+--- !u!1 &262559590 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1880161100165676184, guid: a892f600e77b52a47807977ea943fa15, type: 3}
+  m_PrefabInstance: {fileID: 496575734}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &268689501
 GameObject:
   m_ObjectHideFlags: 0
@@ -8687,6 +8692,11 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2022999220}
   m_CullTransparentMesh: 1
+--- !u!1 &2061335443 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1880161100360538926, guid: a892f600e77b52a47807977ea943fa15, type: 3}
+  m_PrefabInstance: {fileID: 496575734}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &2061890137
 GameObject:
   m_ObjectHideFlags: 0
@@ -9095,6 +9105,14 @@ PrefabInstance:
       propertyPath: weaponsInRightHandSlots.Array.data[1]
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 3294887399213193141, guid: b4b1b3b1f6ed2084ba5788b065e8745d, type: 3}
+      propertyPath: interactableUIGameObject
+      value: 
+      objectReference: {fileID: 2061335443}
+    - target: {fileID: 3294887399213193141, guid: b4b1b3b1f6ed2084ba5788b065e8745d, type: 3}
+      propertyPath: itemInteractableGameObject
+      value: 
+      objectReference: {fileID: 262559590}
     - target: {fileID: 6116258913575533263, guid: b4b1b3b1f6ed2084ba5788b065e8745d, type: 3}
       propertyPath: m_IsActive
       value: 1
