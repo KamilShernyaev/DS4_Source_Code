@@ -39,19 +39,19 @@ Also you can the build version of the Red Runner using the following ways:
 ## Screenshots
 
 <p align="center">
-  <img src="https://img.itch.zone/aW1hZ2UvMTU4NTg4LzczMjc2NS5wbmc=/original/HipFLL.png" />
+  <img src="https://github.com/KamilShernyaev/DS4_Source_Code/blob/main/Screenshots/First.png" />
 </p>
 
 <p align="center">
-  <img src="https://img.itch.zone/aW1hZ2UvMTU4NTg4LzczMjc2MC5wbmc=/original/mb636l.png" />
+  <img src="https://github.com/KamilShernyaev/DS4_Source_Code/blob/main/Screenshots/Second.png" />
 </p>
 
 <p align="center">
-  <img src="https://img.itch.zone/aW1hZ2UvMTU4NTg4LzczMjc2OS5wbmc=/original/UyNp4U.png" />
+  <img src="https://github.com/KamilShernyaev/DS4_Source_Code/blob/main/Screenshots/Third.png" />
 </p>
 
 <p align="center">
-  <img src="https://img.itch.zone/aW1hZ2UvMTU4NTg4LzczMjc3My5wbmc=/original/RAoMpO.png" />
+  <img src="https://github.com/KamilShernyaev/DS4_Source_Code/blob/main/Screenshots/Fourth.png" />
 </p>
 
 ## Credits
