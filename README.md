@@ -59,6 +59,7 @@ Also you can the build version of the Red Runner using the following ways:
 - Scripts: [Sebastian Graves](https://www.youtube.com/user/ICampEasts)
 - Graphics: [POLYGON Knights - Low Poly 3D Art by Synty](https://assetstore.unity.com/packages/3d/environments/fantasy/polygon-knights-low-poly-3d-art-by-synty-83694),
  [POLYGON Fantasy Rivals - Low Poly 3D Art by Synty](https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/polygon-fantasy-rivals-low-poly-3d-art-by-synty-118399)
+- UI: [Ranger RPG GUI](https://assetstore.unity.com/packages/2d/gui/ranger-rpg-gui-26390)
 - Game Engine: [Unity](https://unity3d.com/)
 - Special thanks to [Grouli123](https://github.com/Grouli123) for their help in the project
 
