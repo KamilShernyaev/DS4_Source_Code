@@ -32,9 +32,9 @@ You can get access to Red Runner source code by using one of the following ways:
 git clone https://github.com/KamilShernyaev/DarkSoulsUnity.git
 ```
 
-Also you can the build version of the Red Runner using the following ways:
+Also you can the build version of Unity Dark Souls using the following way:
 
-- [:star: Download from Itch.io](https://bayat.itch.io/red-runner)
+- [:star: Download](https://github.com/KamilShernyaev/DS4_Build_Project/tree/main)
 
 ## Screenshots
 
